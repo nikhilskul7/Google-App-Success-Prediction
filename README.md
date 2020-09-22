@@ -4,6 +4,10 @@
 
 <h1>Analysis</h1>
 <h2>GAMES</h2>
+<p align="center">
+  <img src="Screenshot1.png" width="650" >
+  </p>
+
 <h3>Things we can conclude from above charts</h3>
 <h3>
  -Puzzles category in games have more demand with higher ratings too. </br>
@@ -13,6 +17,10 @@
 </h3>
 
 <h2>APPS</h2>
+
+<p align="center">
+  <img src="Screenshot2.png" width="650" >
+  </p>
 <h3>Things we can conclude from above charts</h3>
 <h3>
  -Apps in category of Education,Tools,Entertainment,Books and Reference are present in heavy numbers their average rating is also better than rest of categories.</br>
