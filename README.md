@@ -1,6 +1,6 @@
 # Google-App-Success-Prediction
 <h2>Created models using data of 267052 apps to determine success of app and general analysis</h2>
-<h2>Accuracy of 95% with <b>Decision Tree Classifier</b></h2>
+<h2>Accuracy of 95% with *Decision Tree Classifier*</h2>
 
 <h1>Analysis</h1>
 <h2>GAMES</h2>
@@ -30,5 +30,5 @@
  
 <h2>Decision Tree Classifier Model</h2>
 <p align="center">
-  <img src="Screenshot3.png" width="650" >
+  <img src="Screenshot3.png" width="850" height="600" >
   </p>
